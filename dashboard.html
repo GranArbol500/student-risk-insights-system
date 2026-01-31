@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Risk Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Performance Result</h1>
+
+    <div id="resultBox"></div>
+
+    <a href="index.html">Analyze Another Student</a>
+
+    <script>
+        const data = JSON.parse(localStorage.getItem("result"));
+        document.getElementById("resultBox").innerHTML = `
+            <p>Name: ${data.name}</p>
+            <p>Average Score: ${data.average}</p>
+            <p>Status: <b>${data.status}</b></p>
+        `;
+    </script>
+</body>
+</html>
